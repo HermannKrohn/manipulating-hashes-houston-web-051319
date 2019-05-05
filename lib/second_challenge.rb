@@ -15,5 +15,5 @@ def second_challenge
       oneDimensionalArr.push(element)
     end
   end
-
+  oneDimensionalArr
 end
